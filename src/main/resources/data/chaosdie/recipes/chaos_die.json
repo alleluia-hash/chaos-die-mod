@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GLG",
+    "LEL",
+    "GLG"
+  ],
+  "key": {
+    "G": { "item": "minecraft:gold_ingot" },
+    "L": { "item": "minecraft:lapis_lazuli" },
+    "E": { "item": "minecraft:ender_pearl" }
+  },
+  "result": {
+    "item": "chaosdie:chaos_die",
+    "count": 1
+  }
+}
