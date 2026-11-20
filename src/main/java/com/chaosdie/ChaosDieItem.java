@@ -242,5 +242,4 @@ public class ChaosDieItem extends Item {
         tooltip.add(Text.translatable("item.chaosdie.chaos_die.tooltip").formatted(Formatting.GRAY));
         tooltip.add(Text.translatable("item.chaosdie.chaos_die.tooltip2").formatted(Formatting.DARK_PURPLE));
     }
-                                                         }
-            
+}

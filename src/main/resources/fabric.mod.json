@@ -4,7 +4,7 @@
   "version": "${version}",
   "name": "Chaos Die",
   "description": "A d20 that rewrites your next five seconds. Right-click to roll. Sneak to roll with advantage.",
-  "authors": ["You"],
+  "authors": ["alleluia-hash"],
   "license": "MIT",
   "icon": "assets/chaosdie/icon.png",
   "environment": "*",
